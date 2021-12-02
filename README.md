@@ -1,9 +1,9 @@
-# landing-page
+# :globe_with_meridians: landing-page
 Projeto Landing-Page. Uma página de captura para implementação em web sites.
 <p>:loudspeaker: Fala pessoal! Tudo cento? Mais um projeto personalizado, desenvolvido com muito carinho, espero que alguém goste. Projeto Landing Page. Uma página de captura para implementação em web sites. Foi bem legal desenvolver esse Front-End utilizei vários recursos de CSS e HTML como divs, section e footer para facilitar o entendimento e divisão da página. Além disso, recursos de CSS. Dá uma conferida no meu git. Grande abraço, Dalmo Mendes!</p>
 
-# Organização do Front-End
-
+# :computer: Organização do Front-End
+...:pencil2:
 ```
 <section class="container">
 
@@ -45,7 +45,7 @@ Projeto Landing-Page. Uma página de captura para implementação em web sites.
 
 </footer>
 ```
-# Landing-page
+# :anger: Landing-page
 <img src="https://github.com/DalmoMendes/landing-page/blob/master/front-end.png"/>
 
 # :rocket: ceproirr 
