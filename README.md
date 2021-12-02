@@ -1,6 +1,6 @@
 # landing-page
 Projeto Landing-Page. Uma página de captura para implementação em web sites.
-<p>Fala pessoal. Tudo cento? Mais um projeto personalizado, desenvolvido com muito carinho, espero que alguém goste. Projeto Landing Page. Uma página de captura para implementação em web sites. Foi bem legal desenvolver esse Front-End utilizei vários recursos de CSS e HTML como divs, section e footer para facilitar o entendimento e divisão da página. Além disso, recursos de CSS. Dá uma conferida no meu git. Grande abraço, Dalmo Mendes!</p>
+<p>:loudspeaker: Fala pessoal! Tudo cento? Mais um projeto personalizado, desenvolvido com muito carinho, espero que alguém goste. Projeto Landing Page. Uma página de captura para implementação em web sites. Foi bem legal desenvolver esse Front-End utilizei vários recursos de CSS e HTML como divs, section e footer para facilitar o entendimento e divisão da página. Além disso, recursos de CSS. Dá uma conferida no meu git. Grande abraço, Dalmo Mendes!</p>
 
 # Organização do Front-End
 
@@ -46,6 +46,15 @@ Projeto Landing-Page. Uma página de captura para implementação em web sites.
 </footer>
 ```
 # Landing-page
-<img src=""/>
+<img src="https://github.com/DalmoMendes/landing-page/blob/master/front-end.png"/>
 
-# Contatos
+# :rocket: ceproirr 
+<p>by Dalmo Mendes - dalmosilvamendens@gmail.com</p>
+<p>Oferecimento: <a href="https://ceproirr.com.br" target="_blank">ceproirr.com.br</a></p>
+<h3>:muscle: Contatos:</h3>
+
+<p>   <a href="https://www.ceproirr.com.br/webagency/" target="_blank">Web Agency</a></p>
+<p>   <a href="https://facebook.com/ceproir/" target="_blank">Facebook</a></p>
+<p>   <a href="https://instagram.com/ceproirr/" target="_blank">Instagram</a></p>
+<p>   <a href="https://twitter.com/ceproirr/" target="_blank">Twitter</a></p>
+<p>   <a href="https://www.youtube.com/channel/UC9egIn_Xkg2KFD_55mi_r8w" target="_blank">YouTube</a></p>
